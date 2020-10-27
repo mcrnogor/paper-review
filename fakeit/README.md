@@ -1,4 +1,4 @@
-# code for Michael
+# XSPEC fakeit checks
 
 [MC, Sep 30, 2020]
 This repository contains the following files:
